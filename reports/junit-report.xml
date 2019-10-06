@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="buscar-salario-en-sitio-de-planilla-publica;buscar-salario-de-un-trabajador" tests="2" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/joelcarrillo/Developer/calidad-software/features/utp-planilla.feature">
+            </property>
+        </properties>
+        <testcase name="When Buscar el trabajador &quot;Hector&quot; &quot;Montemayor&quot;" classname="buscar-salario-en-sitio-de-planilla-publica;buscar-salario-de-un-trabajador" time="4.643987856">
+        </testcase>
+        <testcase name="Then Deberia listar su informacion a nivel de planilla" classname="buscar-salario-en-sitio-de-planilla-publica;buscar-salario-de-un-trabajador" time="0.021460941">
+        </testcase>
+    </testsuite>
+</testsuites>

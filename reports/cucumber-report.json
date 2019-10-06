@@ -1,0 +1,61 @@
+[
+  {
+    "description": "  Es un usuario de internet\n  Para obtener más información acerca de los salarios\n  de los empleados de la UTP para la transpariencia\n  como Universidad Estatal.",
+    "elements": [
+      {
+        "id": "buscar-salario-en-sitio-de-planilla-publica;buscar-salario-de-un-trabajador",
+        "keyword": "Scenario",
+        "line": 9,
+        "name": "Buscar Salario de Un Trabajador",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "Buscar el trabajador \"Hector\" \"Montemayor\"",
+            "result": {
+              "status": "passed",
+              "duration": 4643987856
+            },
+            "line": 10,
+            "match": {
+              "location": "/Users/joelcarrillo/Developer/calidad-software/step-definitions/utp-planilla-steps.js:4"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "Deberia listar su informacion a nivel de planilla",
+            "result": {
+              "status": "passed",
+              "duration": 21460941
+            },
+            "line": 11,
+            "match": {
+              "location": "/Users/joelcarrillo/Developer/calidad-software/step-definitions/utp-planilla-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 106923842
+            },
+            "hidden": true,
+            "match": {
+              "location": "/Users/joelcarrillo/Developer/calidad-software/node_modules/selenium-cucumber-js/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "buscar-salario-en-sitio-de-planilla-publica",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Buscar Salario en Sitio de Planilla Publica",
+    "tags": [],
+    "uri": "/Users/joelcarrillo/Developer/calidad-software/features/utp-planilla.feature"
+  }
+]

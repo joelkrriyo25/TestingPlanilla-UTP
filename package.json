@@ -1,0 +1,17 @@
+{
+  "name": "calidad-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/selenium-cucumber-js/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-cucumber-js": "^1.7.0"
+  },
+  "dependencies": {
+    "webdriver": "^5.14.4"
+  }
+}
