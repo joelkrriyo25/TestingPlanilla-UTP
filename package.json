@@ -12,6 +12,6 @@
     "selenium-cucumber-js": "^1.7.0"
   },
   "dependencies": {
-    "webdriver": "^5.14.4"
+    "webdriver": "^5.16.10"
   }
 }

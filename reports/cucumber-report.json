@@ -14,11 +14,11 @@
             "name": "Buscar el trabajador \"Hector\" \"Montemayor\"",
             "result": {
               "status": "passed",
-              "duration": 4643987856
+              "duration": 6548766160
             },
             "line": 10,
             "match": {
-              "location": "/Users/joelcarrillo/Developer/calidad-software/step-definitions/utp-planilla-steps.js:4"
+              "location": "/Users/joelcarrillo/Developer/calidad-software/TestingPlanilla-UTP/step-definitions/utp-planilla-steps.js:4"
             }
           },
           {
@@ -27,11 +27,11 @@
             "name": "Deberia listar su informacion a nivel de planilla",
             "result": {
               "status": "passed",
-              "duration": 21460941
+              "duration": 20398858
             },
             "line": 11,
             "match": {
-              "location": "/Users/joelcarrillo/Developer/calidad-software/step-definitions/utp-planilla-steps.js:13"
+              "location": "/Users/joelcarrillo/Developer/calidad-software/TestingPlanilla-UTP/step-definitions/utp-planilla-steps.js:13"
             }
           },
           {
@@ -39,11 +39,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 106923842
+              "duration": 202331925
             },
             "hidden": true,
             "match": {
-              "location": "/Users/joelcarrillo/Developer/calidad-software/node_modules/selenium-cucumber-js/runtime/world.js:250"
+              "location": "/Users/joelcarrillo/Developer/calidad-software/TestingPlanilla-UTP/node_modules/selenium-cucumber-js/runtime/world.js:250"
             }
           }
         ],
@@ -56,6 +56,6 @@
     "line": 3,
     "name": "Buscar Salario en Sitio de Planilla Publica",
     "tags": [],
-    "uri": "/Users/joelcarrillo/Developer/calidad-software/features/utp-planilla.feature"
+    "uri": "/Users/joelcarrillo/Developer/calidad-software/TestingPlanilla-UTP/features/utp-planilla.feature"
   }
 ]
