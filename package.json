@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/selenium-cucumber-js/index.js"
+    "test": "node ./node_modules/selenium-cucumber-js/index.js -x60000"
   },
   "author": "",
   "license": "ISC",
